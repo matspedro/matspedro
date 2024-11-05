@@ -9,7 +9,7 @@
 
 ###
 
-<img align="left" height="200" src="https://media.tenor.com/B2lT6I3TIxwAAAAM/woody-toy-story.gif"  />
+<img align="left" height="150" src="https://media.tenor.com/B2lT6I3TIxwAAAAM/woody-toy-story.gif"  />
 
 ###
 
