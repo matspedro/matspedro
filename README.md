@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/94/5a/75/945a75b10694b93da9694a9e4a73f1eb.gif"  />
+<img align="right" height="150" src="https://preview.redd.it/so-there-are-gifs-for-the-fnaf-movie-v0-qr2ac45tmapb1.gif?width=384&auto=webp&s=44cb5681abd9608f9ee1ecaeb64a86da7592d5a1"  />
 
 ###
 
@@ -36,6 +36,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/matspedro/matspedro/output/snake.svg" alt="Snake animation" />
 
 ###
