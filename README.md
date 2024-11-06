@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://preview.redd.it/so-there-are-gifs-for-the-fnaf-movie-v0-qr2ac45tmapb1.gif?width=384&auto=webp&s=44cb5681abd9608f9ee1ecaeb64a86da7592d5a1"  />
+<img align="right" height="150" src="https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/4/4c/ITP_Bonnie_%28Tying_Up_Child%29.gif/revision/latest/scale-to-width-down/250?cb=20240810022145"  />
 
 ###
 
