@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! You are being always watched :)</h2>
+<h2 align="left">Hi 👋! You are always being watched :)</h2>
 
 ###
 
